@@ -23,9 +23,12 @@ Tänk dig att du ska skapa en grund för ett program som hanterar djur på ett z
 
 ### Extra utmaning
 
-Vill du ha lite mer utmaning så kan du försöka implementera följande:
+~~Vill du ha lite mer utmaning så kan du försöka implementera följande:~~
 
-- [ ]  Få in så att även människa finns som ett djur
-- [ ]  Utöka strukturen så att det finns skillnad på däggdjur och reptiler
-- [ ]  Utöka så att det även finns märkning av djur kring om de är vilda eller tama djur
-- [ ]  Utöka så att strukturen även omfattar växter
+~~- [ ]  Få in så att även människa finns som ett djur~~
+
+~~- [ ]  Utöka strukturen så att det finns skillnad på däggdjur och reptiler~~
+
+~~- [ ]  Utöka så att det även finns märkning av djur kring om de är vilda eller tama djur~~
+
+~~- [ ]  Utöka så att strukturen även omfattar växter~~
